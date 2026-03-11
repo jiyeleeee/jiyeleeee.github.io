@@ -1,14 +1,14 @@
-- title: Master's Degree, University of Mannheim, Germany
-  from: 2022
-  to: 2026
-  description: Data Science
+- title: Master's Degree, University of Mannheim, Germany 
+  from: 2022 
+  to: 2026 
+  description: Data Science 
+              
+- title: Bachelor's Degree, Sungshin Women's University, South Korea 
+  from: 2016 
+  to: 2021 
+  description: Computer Science, GPA: 3.81/4.5 
 
-- title: Bachelor's Degree, Sungshin Women's University, South Korea
-  from: 2016
-  to: 2021
-  description: Computer Science, GPA: 3.81/4.5
-
-- title: Exchange Student, Chiba University, Japan
-  from: 2019
-  to: 2020
-  description: ~
+- title: Exchange Student, Chiba University, Japan 
+  from: 2019 
+  to: 2020 
+  description: ~ 
