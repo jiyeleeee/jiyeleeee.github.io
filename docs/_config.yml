@@ -1,10 +1,9 @@
 ### Site Settings ###
-title               : portfolYOU
-description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "/portfolYOU"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+title               : Jiyeon's Portfolio
+description         : Hi, I am Jiyeon Lee. 
+                      I just graduated from the university and I am looking for a job as a AI Engineer and Data analyst. I am interested in machine learning, deep learning, NLP and LLMs.
+                      
+baseurl             : "https://github.com/jiyeleeee/jiyeleeee.github.io.git"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : yousinix/portfolYOU      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
@@ -25,17 +24,17 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  name              : Jiyeon Lee
+  image             : \me.png
   behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : jiyeon1997lee@gmail.com
   facebook          : your_username
   github            : your_username
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : https://www.linkedin.com/in/jiyeonlee-
   medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
